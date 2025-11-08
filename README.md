@@ -1,6 +1,5 @@
 # 👋 OLÁ! Eu sou o Matheus Ramos
 
-👨‍💼 **Encarregado de Garantia na Volkswagen**  
 🧑‍💻 **Estudante de Ciência da Computação na UNIVALI – Itajaí/SC**  
 🧠 Atualmente explorando os fundamentos de **C++**  
 🔒 Apaixonado por tecnologia e de olho no futuro da **segurança de dados**  
