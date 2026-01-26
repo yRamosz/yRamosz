@@ -9,9 +9,7 @@
 
 ### 📊 Estatísticas
 
-[[![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=yRamosz&show_icons=true&theme=github_dark)](https://github-readme-stats-mu-khaki.vercel.app/api?username=yRamosz&show_icons=true&theme=github_dark
-)](https://github-readme-stats.vercel.app/api?username=yRamosz&show_icons=true&theme=github_dark&cache_seconds=1
-)
+![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=yRamosz&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yRamosz&layout=compact&theme=tokyonight)
 
