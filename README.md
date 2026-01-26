@@ -1,6 +1,6 @@
 # 👋 OLÁ! Eu sou o Matheus Ramos
 
-🎓 **Estudante de Ciência da Computação** na **UNIVALI**  
+🎓 **Estudante de Ciência da Computação** na **UNIVALI** Itajaí-SC  
 📍 **Itajaí – SC**  
 🧠 **Base sólida em lógica e programação**  
 🚀 **Em constante aprendizado e evolução na área de tecnologia**
