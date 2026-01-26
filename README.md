@@ -1,9 +1,9 @@
 # 👋 OLÁ! Eu sou o Matheus Ramos
 
-🧑‍💻 **Estudante de Ciência da Computação na UNIVALI – Itajaí/SC**  
-🧠 Atualmente explorando os fundamentos de **C++**  
-🔒 Apaixonado por tecnologia e de olho no futuro da **segurança de dados**  
-📈 Em constante evolução – cada linha de código é um passo a mais
+🎓 **Estudante de Ciência da Computação** na **UNIVALI**  
+📍 **Itajaí – SC**  
+🧠 **Base sólida em lógica e programação**  
+🚀 **Em constante aprendizado e evolução na área de tecnologia**
 
 ---
 
@@ -17,9 +17,9 @@
 
 ### 💻 Tecnologias & Interesses
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Programação](https://img.shields.io/badge/-Programação-444?style=for-the-badge)
+![Lógica](https://img.shields.io/badge/-Lógica%20de%20Programação-555?style=for-the-badge)
 ![Estudante UNIVALI](https://img.shields.io/badge/Estudante%20UNIVALI-blue?style=for-the-badge)
-![Segurança de Dados](https://img.shields.io/badge/Interesse-Seguran%C3%A7a%20de%20Dados-orange?style=for-the-badge)
 
 ---
 
