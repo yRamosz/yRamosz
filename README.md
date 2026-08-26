@@ -15,10 +15,8 @@ Web Development
 Tools & Database
 <a href="https://github.com/yRamosz"> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode&perline=4" /> </div> </a> </td></tr></table>
 Connect with me:
-<div align="center"> <a href="https://www.linkedin.com/in/matheus-henrique-ramos-96b949362" target="_blank"> <img src="https://img.shields.io/badge/-Matheus%20Ramos-0077B5?style=flat&logo=Linkedin&logoColor=white"/> </a> </div>
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yRamosz" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRamosz&layout=compact" alt="Top Languages"> </p>
+<div align="center"> <a href="https://www.linkedin.com/in/matheus-henrique-ramos-96b949362" target="_blank"> <div align="center">
+  <a href="https://www.linkedin.com/in/matheus-henrique-ramos-96b949362" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+</div>
